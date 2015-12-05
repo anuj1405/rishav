@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "description": "legalman",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "author": "",
-  "license": "ISC"
+  "engines": {
+    "node": "0.10.36",
+    "npm": "1.4.28"
+}
 }
