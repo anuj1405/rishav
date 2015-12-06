@@ -20,7 +20,6 @@ var express  = require('express');
 var app      = express();
 var port     = process.env.PORT || 5000;
 // var mongoose = require('mongoose');
-var path = require('path');
 
 // var configDB = require('./config/database.js');
 
